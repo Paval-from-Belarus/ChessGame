@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.677,D:\Триггеры\Delphi\Project1.dproj=D:\Триггеры\Delphi\ChessMark.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,D:\Триггеры\Delphi\ChessGame\Unit1.pas=D:\Триггеры\Delphi\ChessGame\ChessTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.169,=D:\Триггеры\Delphi\ChessGame\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,=D:\Триггеры\Delphi\ChessGame\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,D:\Триггеры\Delphi\ChessGame\ChessLogic.pas=D:\Триггеры\Delphi\ChessGame\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
